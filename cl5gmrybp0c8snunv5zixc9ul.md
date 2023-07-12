@@ -1,4 +1,10 @@
-## 文  文
+---
+title: "文  文"
+datePublished: Mon Jul 11 2022 10:57:52 GMT+0000 (Coordinated Universal Time)
+cuid: cl5gmrybp0c8snunv5zixc9ul
+slug: ioawhyag5pahia
+
+---
 
 # 文文
 
